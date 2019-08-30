@@ -51,7 +51,7 @@ class ViewController: UIViewController, UITableViewDataSource {
     }
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        guard let url: URL = URL(string: "https://randomuser.me/api/?results=20&inc=name,email,picture") else {return }
+        guard let url: URL = URL(string: "Private") else {return }
         
         let session: URLSession = URLSession(configuration: .default)
         let datatTask: URLSessionDataTask = session.dataTask(with: url) { (data: Data?, response: URLResponse?, error: Error?) in
