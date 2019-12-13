@@ -14,6 +14,9 @@
 - ImagePicker
 - LifeCycle
 - JSON Parsing
+- Navigation Controller
+- Image Import
+- Tabbar Controller
 
 ---
 
