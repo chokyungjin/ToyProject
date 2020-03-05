@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E2A4C47E-B845-4AFE-9A3A-D3E8C3A6E463</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>E2A4C47E-B845-4AFE-9A3A-D3E8C3A6E463.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>LutProject-entehrmwwgfdntfeyegjxgxbrkzc</string>
+			<key>timeStartedRecording</key>
+			<real>605110099.024791</real>
+			<key>timeStoppedRecording</key>
+			<real>605110101.51659501</real>
+			<key>title</key>
+			<string>Build target LutProject</string>
+			<key>uniqueIdentifier</key>
+			<string>E2A4C47E-B845-4AFE-9A3A-D3E8C3A6E463</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

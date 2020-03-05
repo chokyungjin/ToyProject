@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A743B9E8-66D0-4F48-962D-C41A205428DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A743B9E8-66D0-4F48-962D-C41A205428DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LutProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LutProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LutProject</string>
+			<key>timeStartedRecording</key>
+			<real>605110098.24374795</real>
+			<key>timeStoppedRecording</key>
+			<real>605110101.52848005</real>
+			<key>title</key>
+			<string>Build LutProject</string>
+			<key>uniqueIdentifier</key>
+			<string>A743B9E8-66D0-4F48-962D-C41A205428DF</string>
+		</dict>
+		<key>C2A57ED0-33E9-47D1-8973-A898DF66D4A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2A57ED0-33E9-47D1-8973-A898DF66D4A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LutProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LutProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LutProject</string>
+			<key>timeStartedRecording</key>
+			<real>604428192.58581901</real>
+			<key>timeStoppedRecording</key>
+			<real>604428198.66547406</real>
+			<key>title</key>
+			<string>Build LutProject</string>
+			<key>uniqueIdentifier</key>
+			<string>C2A57ED0-33E9-47D1-8973-A898DF66D4A2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

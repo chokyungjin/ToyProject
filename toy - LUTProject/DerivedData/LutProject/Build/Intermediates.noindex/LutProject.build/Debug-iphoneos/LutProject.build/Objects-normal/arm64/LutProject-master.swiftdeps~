@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "60902b0123dae3682ae2297ab7fa737b"
+build_time: [1582735392, 718627000]
+inputs:
+  "/Users/Chokyungjin/Desktop/LutProject/LutProject/ViewController.swift": !dirty [1582730678, 712998407]
+  "/Users/Chokyungjin/Desktop/LutProject/LutProject/AppDelegate.swift": !dirty [1582458453, 641735528]
+  "/Users/Chokyungjin/Desktop/LutProject/LutProject/SceneDelegate.swift": !dirty [1582458453, 644726449]

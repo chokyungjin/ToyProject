@@ -1,0 +1,11 @@
+framework module ColorCube {
+  umbrella header "ColorCube.h"
+
+  export *
+  module * { export * }
+}
+
+module ColorCube.Swift {
+    header "ColorCube-Swift.h"
+    requires objc
+}
