@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "3a9768b392b2636bfc5c4d659589dc99"
-build_time: [1583417299, 35823000]
+options: "bd17478a620fc26b49536556638c6183"
+build_time: [1583653377, 264048000]
 inputs:
-  "/Users/Chokyungjin/Desktop/LutProject/LutProject/ViewController.swift": [1582730678, 712998407]
-  "/Users/Chokyungjin/Desktop/LutProject/LutProject/AppDelegate.swift": [1582458453, 641735528]
-  "/Users/Chokyungjin/Desktop/LutProject/LutProject/SceneDelegate.swift": [1582458453, 644726449]
+  "/Users/Chokyungjin/Documents/GitHub/ToyProject/toy - LUTProject/LutProject/ViewController.swift": !dirty [1582730678, 712998407]
+  "/Users/Chokyungjin/Documents/GitHub/ToyProject/toy - LUTProject/LutProject/AppDelegate.swift": !dirty [1582458453, 641735528]
+  "/Users/Chokyungjin/Documents/GitHub/ToyProject/toy - LUTProject/LutProject/SceneDelegate.swift": !dirty [1582458453, 644726449]

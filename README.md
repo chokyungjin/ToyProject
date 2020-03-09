@@ -17,7 +17,7 @@
 - Navigation Controller
 - Image Import
 - Tabbar Controller
-- Camera filtering using LUT
+- Image filtering using LUT
 
 ---
 
