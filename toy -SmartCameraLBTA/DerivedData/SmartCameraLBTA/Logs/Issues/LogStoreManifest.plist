@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>A7854A2A-9B32-4FBE-A53C-6F574F3867D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>A7854A2A-9B32-4FBE-A53C-6F574F3867D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SmartCameraLBTA-fgjxyrbtzcmurehjltpcncxysyht</string>
+			<key>timeStartedRecording</key>
+			<real>606641115.68027401</real>
+			<key>timeStoppedRecording</key>
+			<real>606641117.77275705</real>
+			<key>title</key>
+			<string>Build target SmartCameraLBTA</string>
+			<key>uniqueIdentifier</key>
+			<string>A7854A2A-9B32-4FBE-A53C-6F574F3867D0</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

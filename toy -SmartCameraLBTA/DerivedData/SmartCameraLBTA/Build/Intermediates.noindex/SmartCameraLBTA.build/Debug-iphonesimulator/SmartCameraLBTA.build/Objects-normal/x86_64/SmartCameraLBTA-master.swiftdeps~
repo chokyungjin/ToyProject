@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "d12406a5ddbb2a193706cf7d89f8a5f1"
+build_time: [1584947923, 178856000]
+inputs:
+  "/Volumes/FORCHO/IOS/SmartCameraLBTA/SmartCameraLBTA/ViewController.swift": [1567146298, 0]
+  "/Volumes/FORCHO/IOS/SmartCameraLBTA/SmartCameraLBTA/AppDelegate.swift": !dirty [1499897934, 0]
+  "/Volumes/FORCHO/IOS/SmartCameraLBTA/DerivedData/SmartCameraLBTA/Build/Intermediates.noindex/SmartCameraLBTA.build/Debug-iphonesimulator/SmartCameraLBTA.build/DerivedSources/CoreMLGenerated/SqueezeNet/SqueezeNet.swift": !dirty [1584947922, 0]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "66b1003b34b5f5aa12c85e62494e9d74"
+build_time: [1584948315, 687977000]
+inputs:
+  "/Users/Chokyungjin/Documents/GitHub/ToyProject/toy -SmartCameraLBTA/SmartCameraLBTA/ViewController.swift": [1584948269, 424284114]
+  "/Users/Chokyungjin/Documents/GitHub/ToyProject/toy -SmartCameraLBTA/SmartCameraLBTA/AppDelegate.swift": [1499897934, 0]
+  "/Users/Chokyungjin/Documents/GitHub/ToyProject/toy -SmartCameraLBTA/DerivedData/SmartCameraLBTA/Build/Intermediates.noindex/SmartCameraLBTA.build/Debug-iphoneos/SmartCameraLBTA.build/DerivedSources/CoreMLGenerated/SqueezeNet/SqueezeNet.swift": [1584948102, 944715051]

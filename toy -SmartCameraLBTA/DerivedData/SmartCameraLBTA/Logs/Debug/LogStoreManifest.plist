@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>60B84111-D593-4AF0-B129-10A78F634078</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>60B84111-D593-4AF0-B129-10A78F634078.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SmartCameraLBTA project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SmartCameraLBTA</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SqueezeNet</string>
+			<key>timeStartedRecording</key>
+			<real>606641117.78654695</real>
+			<key>timeStoppedRecording</key>
+			<real>606641128.14593005</real>
+			<key>title</key>
+			<string>Debug SqueezeNet</string>
+			<key>uniqueIdentifier</key>
+			<string>60B84111-D593-4AF0-B129-10A78F634078</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

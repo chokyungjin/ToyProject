@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		3994EAA62318F8A8000E2F44 /* SqueezeNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SqueezeNet.mlmodel; sourceTree = "<group>"; };
-		C71B51A51F16D7CF000320B8 /* SmartCameraLBTA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartCameraLBTA.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C71B51A51F16D7CF000320B8 /* SqueezeNet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SqueezeNet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C71B51A81F16D7CF000320B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C71B51AA1F16D7CF000320B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C71B51AD1F16D7CF000320B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		C71B51A61F16D7CF000320B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C71B51A51F16D7CF000320B8 /* SmartCameraLBTA.app */,
+				C71B51A51F16D7CF000320B8 /* SqueezeNet.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = SmartCameraLBTA;
 			productName = SmartCameraLBTA;
-			productReference = C71B51A51F16D7CF000320B8 /* SmartCameraLBTA.app */;
+			productReference = C71B51A51F16D7CF000320B8 /* SqueezeNet.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -274,11 +274,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COREML_CODEGEN_LANGUAGE = Swift;
-				DEVELOPMENT_TEAM = 5D24S78QBG;
+				DEVELOPMENT_TEAM = C7X33ZVY6P;
 				INFOPLIST_FILE = SmartCameraLBTA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Cho.SmartCameraLBTA;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SqueezeNet;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -289,11 +289,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COREML_CODEGEN_LANGUAGE = Swift;
-				DEVELOPMENT_TEAM = 5D24S78QBG;
+				DEVELOPMENT_TEAM = C7X33ZVY6P;
 				INFOPLIST_FILE = SmartCameraLBTA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Cho.SmartCameraLBTA;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SqueezeNet;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

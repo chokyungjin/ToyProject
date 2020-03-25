@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>8570260C-D494-43E9-B592-EE61F0059598</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8570260C-D494-43E9-B592-EE61F0059598.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SmartCameraLBTA project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SmartCameraLBTA</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SmartCameraLBTA</string>
+			<key>timeStartedRecording</key>
+			<real>606641115.51511705</real>
+			<key>timeStoppedRecording</key>
+			<real>606641117.77784598</real>
+			<key>title</key>
+			<string>Build SmartCameraLBTA</string>
+			<key>uniqueIdentifier</key>
+			<string>8570260C-D494-43E9-B592-EE61F0059598</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
