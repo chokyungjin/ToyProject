@@ -2,9 +2,9 @@
 provides-top-level:
 - "ViewController"
 provides-nominal:
-- "15SmartCameraLBTA14ViewControllerC"
+- "10SqueezeNet14ViewControllerC"
 provides-member:
-- ["15SmartCameraLBTA14ViewControllerC", ""]
+- ["10SqueezeNet14ViewControllerC", ""]
 provides-dynamic-lookup:
 - "captureOutput"
 - "viewDidLoad"
@@ -614,8 +614,8 @@ depends-member:
 - !private ["7Combine9SchedulerP", "init"]
 - !private ["7Combine9SchedulerP", "main"]
 - !private ["ST", "first"]
-- !private ["15SmartCameraLBTA10SqueezeNetC", "init"]
-- !private ["15SmartCameraLBTA10SqueezeNetC", "model"]
+- !private ["10SqueezeNetAAC", "init"]
+- !private ["10SqueezeNetAAC", "model"]
 - !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
 - !private ["s27StringInterpolationProtocolP", "appendLiteral"]
 - !private ["s16TextOutputStreamP", "appendInterpolation"]
@@ -1062,31 +1062,31 @@ depends-member:
 - !private ["So9VNRequestC", "results"]
 - !private ["So26VNRequestRevisionProvidingP", "confidence"]
 - !private ["So26VNRequestRevisionProvidingP", "identifier"]
-- ["15SmartCameraLBTA14ViewControllerC", "AVCaptureConnection"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "AVCaptureDevice"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "AVCaptureDeviceInput"]
-- ["15SmartCameraLBTA14ViewControllerC", "AVCaptureOutput"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "AVCaptureSession"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "AVCaptureVideoDataOutput"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "AVCaptureVideoPreviewLayer"]
-- ["15SmartCameraLBTA14ViewControllerC", "CMSampleBuffer"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "CMSampleBufferGetImageBuffer"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "CVPixelBuffer"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "DispatchQueue"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "SqueezeNet"]
-- ["15SmartCameraLBTA14ViewControllerC", "UILabel"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "VNClassificationObservation"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "VNCoreMLModel"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "VNCoreMLRequest"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "VNImageRequestHandler"]
-- ["15SmartCameraLBTA14ViewControllerC", "captureOutput"]
-- ["15SmartCameraLBTA14ViewControllerC", "deinit"]
-- ["15SmartCameraLBTA14ViewControllerC", "identifierLabel"]
-- ["15SmartCameraLBTA14ViewControllerC", "init"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "print"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "setupIdentifierConfidenceLabel"]
-- !private ["15SmartCameraLBTA14ViewControllerC", "view"]
-- ["15SmartCameraLBTA14ViewControllerC", "viewDidLoad"]
+- ["10SqueezeNet14ViewControllerC", "AVCaptureConnection"]
+- !private ["10SqueezeNet14ViewControllerC", "AVCaptureDevice"]
+- !private ["10SqueezeNet14ViewControllerC", "AVCaptureDeviceInput"]
+- ["10SqueezeNet14ViewControllerC", "AVCaptureOutput"]
+- !private ["10SqueezeNet14ViewControllerC", "AVCaptureSession"]
+- !private ["10SqueezeNet14ViewControllerC", "AVCaptureVideoDataOutput"]
+- !private ["10SqueezeNet14ViewControllerC", "AVCaptureVideoPreviewLayer"]
+- ["10SqueezeNet14ViewControllerC", "CMSampleBuffer"]
+- !private ["10SqueezeNet14ViewControllerC", "CMSampleBufferGetImageBuffer"]
+- !private ["10SqueezeNet14ViewControllerC", "CVPixelBuffer"]
+- !private ["10SqueezeNet14ViewControllerC", "DispatchQueue"]
+- !private ["10SqueezeNet14ViewControllerC", "SqueezeNet"]
+- ["10SqueezeNet14ViewControllerC", "UILabel"]
+- !private ["10SqueezeNet14ViewControllerC", "VNClassificationObservation"]
+- !private ["10SqueezeNet14ViewControllerC", "VNCoreMLModel"]
+- !private ["10SqueezeNet14ViewControllerC", "VNCoreMLRequest"]
+- !private ["10SqueezeNet14ViewControllerC", "VNImageRequestHandler"]
+- ["10SqueezeNet14ViewControllerC", "captureOutput"]
+- ["10SqueezeNet14ViewControllerC", "deinit"]
+- ["10SqueezeNet14ViewControllerC", "identifierLabel"]
+- ["10SqueezeNet14ViewControllerC", "init"]
+- !private ["10SqueezeNet14ViewControllerC", "print"]
+- !private ["10SqueezeNet14ViewControllerC", "setupIdentifierConfidenceLabel"]
+- !private ["10SqueezeNet14ViewControllerC", "view"]
+- ["10SqueezeNet14ViewControllerC", "viewDidLoad"]
 - !private ["s14_ArrayProtocolP", "first"]
 - !private ["s24_DestructorSafeContainerP", "first"]
 - ["s26_ExpressibleByColorLiteralP", "black"]
@@ -1276,7 +1276,7 @@ depends-nominal:
 - "SY"
 - !private "7Combine9SchedulerP"
 - !private "ST"
-- !private "15SmartCameraLBTA10SqueezeNetC"
+- !private "10SqueezeNetAAC"
 - !private "s27StringInterpolationProtocolP"
 - !private "s16TextOutputStreamP"
 - "So29UIAccessibilityIdentificationP"
@@ -1308,7 +1308,7 @@ depends-nominal:
 - !private "So13VNObservationC"
 - !private "So9VNRequestC"
 - !private "So26VNRequestRevisionProvidingP"
-- "15SmartCameraLBTA14ViewControllerC"
+- "10SqueezeNet14ViewControllerC"
 - !private "s14_ArrayProtocolP"
 - !private "s24_DestructorSafeContainerP"
 - "s26_ExpressibleByColorLiteralP"
