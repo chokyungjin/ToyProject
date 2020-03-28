@@ -18,6 +18,7 @@
 - Image Import
 - Tabbar Controller
 - Image filtering using LUT
+- Object Detection Using YOLO
 
 ---
 
